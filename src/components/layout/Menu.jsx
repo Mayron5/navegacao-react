@@ -19,6 +19,9 @@ const Menu = () => {
                     <li>
                         <Link to="/param/60">Parm 02</Link>
                     </li>
+                    <li>
+                        <Link to="/naoExiste">Nao existe</Link>
+                    </li>
                 </ul>
             </nav>
         </aside>
