@@ -13,6 +13,12 @@ const Menu = () => {
                     <li>
                         <Link to="/about">About</Link>
                     </li>
+                    <li>
+                        <Link to="/param/1">Parm 01</Link>
+                    </li>
+                    <li>
+                        <Link to="/param/60">Parm 02</Link>
+                    </li>
                 </ul>
             </nav>
         </aside>
